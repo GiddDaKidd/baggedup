@@ -522,7 +522,7 @@ section.hero .owl-dots .owl-dot.active {
        HERO 2 SECTION
    ======================================================= */
 section.hero-2 {
-  background: none;
+  background-image: url(../assets/img/hero-bg-2.jpg);
   padding: 0 !important;
 }
 
@@ -794,7 +794,7 @@ section.sale p {
 }
 
 /* =======================================================
-       LENSES(PRODUCT 2 SECTION) SECTION 
+       LENSES(PRODUCT 2 SECTION) SECTION
    ======================================================= */
 section.product-2 .item {
   min-height: 200px;
@@ -1930,8 +1930,8 @@ STYLE SWITCHER FOR DEMO
   font-size: 0.85em;
 }
 
-/* ========================================= 
-   THEMING OF BOOTSTRAP COMPONENTS           
+/* =========================================
+   THEMING OF BOOTSTRAP COMPONENTS
    ========================================= */
 /*
  * 1. NAVBAR
@@ -2529,7 +2529,7 @@ STYLE SWITCHER FOR DEMO
 }
 
 /*
- * 3. TYPE  
+ * 3. TYPE
  */
 body {
   font-family: "Roboto", sans-serif;
